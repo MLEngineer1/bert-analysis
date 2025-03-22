@@ -3,3 +3,4 @@ transformers
 scikit-learn
 nltk
 tensorflow
+tf-keras
