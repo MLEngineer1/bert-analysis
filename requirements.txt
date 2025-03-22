@@ -1,1 +1,8 @@
 streamlit
+transformers
+tenserflow
+pytorch
+tf-keras
+spacy
+scikit-learn
+nltk
